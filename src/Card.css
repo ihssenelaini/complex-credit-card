@@ -1,0 +1,53 @@
+.app-form{
+    /* background-color: rgb(60, 60, 126); */
+    width:50%;
+    height:400px;
+    border-radius: 10%;
+
+    
+    
+}
+.title{
+    color: beige;
+    padding-left: 400px;}
+
+.img1{
+    width:70px;
+    height:50px;
+}
+.img3{
+    width:200px;
+    height:100px;
+    display:flex;
+    justify-content: flex-start;
+    margin-left: 100px;
+
+}
+.img2{
+    width:70px;
+    height:70px;
+    
+}
+.birth{
+    display: flex;
+    justify-content: space-between;
+    color:white;
+}
+.number{
+    display: flex;
+    flex-direction: column;
+}.first{
+    margin-left: -500px;
+    color: yellowgreen
+    
+}
+.image{
+    display: flex;
+    flex-direction: column;
+    margin-left: 82%;
+  
+ margin-top: -100px
+}
+    
+    
+
